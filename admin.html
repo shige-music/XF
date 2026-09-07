@@ -645,8 +645,9 @@
                 if (getResponse.ok) {
                     const data = await getResponse.json();
                     sha = data.sha;
-                    // 正确解码 UTF-8
-                    const binaryString = atob(data.content);
+                    // 正确解码 UTF-8（GitHub API 的 content 可能包含换行符，需要先去除）
+                    const base64Content = data.content.replace(/\n/g, '');
+                    const binaryString = atob(base64Content);
                     const bytes = new Uint8Array(binaryString.length);
                     for (let i = 0; i < binaryString.length; i++) {
                         bytes[i] = binaryString.charCodeAt(i);
