@@ -1,7 +1,7 @@
 [
   {
     "id": 1788761936182,
-    "title": "ä»¥èµäºä¹¦32ï¼15",
+    "title": "Ã¤Â»Â¥Ã¨ÂµÂÃ¤ÂºÂÃ¤Â¹Â¦32Ã¯Â¼Â15",
     "artist": "XF",
     "album": "",
     "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788761929901_20241109__32_15____________PC_____.mp3",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1788762221350,
-    "title": "诗篇90篇16-17节",
+    "title": "è¯ç¯90ç¯16-17è",
     "artist": "XF",
     "album": "",
     "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788762214501__90_16_17__mp3____001_1_.mp3",
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788762219147____90_16-17.jpg",
     "duration": "3:04"
+  },
+  {
+    "id": 1788762293357,
+    "title": "哈该书2：8-9",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788762287822_____2-8.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788762291319____2_8-9.jpg",
+    "duration": "1:49"
   }
 ]
