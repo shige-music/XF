@@ -198,5 +198,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788778801321_____35_5-6.jpg",
     "duration": "1:07"
+  },
+  {
+    "id": 1788778908017,
+    "title": "以赛亚书55：12-13",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788778902114____55_12_13_.m4a",
+    "cover": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/covers/1788778905813_____55_12-13.jpg",
+    "sheetMusic": null,
+    "duration": "1:24"
   }
 ]
