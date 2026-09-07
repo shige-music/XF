@@ -20,16 +20,6 @@
     "duration": "1:18"
   },
   {
-    "id": 1788423231627,
-    "title": "诗篇90篇16-17节",
-    "artist": "XF",
-    "album": "",
-    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788423222062_20260308诗90篇16～17节.mp3(翻唱)001.mp3",
-    "cover": null,
-    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788423229472_dcb4f4c707c9740f81956256fc75fb27.jpg",
-    "duration": "3:04"
-  },
-  {
     "id": 1788423301475,
     "title": "约翰三书：2节",
     "artist": "XF",
@@ -148,15 +138,5 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788776907238______4_6.jpg",
     "duration": "0:30"
-  },
-  {
-    "id": 1788776987512,
-    "title": "撒迦利亚书4：7",
-    "artist": "XF",
-    "album": "",
-    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788776982084_____4_7_.m4a",
-    "cover": null,
-    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788776985510______4_7.jpg",
-    "duration": "0:31"
   }
 ]
