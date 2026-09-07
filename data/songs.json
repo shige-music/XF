@@ -158,5 +158,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788778220751___43_5.jpg",
     "duration": "0:54"
+  },
+  {
+    "id": 1788778319165,
+    "title": "诗篇51：10-12",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788778312290___51_10-12_____________AI___.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788778317118___51_10-12.jpg",
+    "duration": "2:44"
   }
 ]
