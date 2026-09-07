@@ -138,5 +138,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788778082285_____60_1-3.jpg",
     "duration": "1:24"
+  },
+  {
+    "id": 1788778169091,
+    "title": "诗篇23：1-6",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788778162374___23_1-6_.m4a",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788778167175___23_1-6.jpg",
+    "duration": "1:42"
   }
 ]
