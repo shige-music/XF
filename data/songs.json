@@ -128,5 +128,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788776907238______4_6.jpg",
     "duration": "0:30"
+  },
+  {
+    "id": 1788777488292,
+    "title": "撒迦利亚书2：10",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788777482367______2-10.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788777486087______2_10.jpg",
+    "duration": "2:31"
   }
 ]
