@@ -1,17 +1,17 @@
 [
   {
     "id": 1788316366085,
-    "title": "ç¬¬ä¸é¦",
+    "title": "Ã§Â¬Â¬Ã¤Â¸ÂÃ©Â¦Â",
     "artist": "11",
     "album": "",
-    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788316361615_å¸¦æè¿å¥å¹å.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788316361615_Ã¥Â¸Â¦Ã¦ÂÂÃ¨Â¿ÂÃ¥ÂÂ¥Ã¥Â¹ÂÃ¥ÂÂ.mp3",
     "cover": null,
     "sheetMusic": null,
     "duration": "5:16"
   },
   {
     "id": 1788422041118,
-    "title": "è¯ç¯112ç¯1-3è",
+    "title": "Ã¨Â¯ÂÃ§Â¯Â112Ã§Â¯Â1-3Ã¨ÂÂ",
     "artist": "XF",
     "album": "",
     "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788422033779_112.1-3.mp3",
@@ -21,27 +21,27 @@
   },
   {
     "id": 1788423231627,
-    "title": "è¯ç¯90ç¯16-17è",
+    "title": "Ã¨Â¯ÂÃ§Â¯Â90Ã§Â¯Â16-17Ã¨ÂÂ",
     "artist": "XF",
     "album": "",
-    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788423222062_20260308è¯90ç¯16ï½17è.mp3(ç¿»å±)001.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788423222062_20260308Ã¨Â¯Â90Ã§Â¯Â16Ã¯Â½Â17Ã¨ÂÂ.mp3(Ã§Â¿Â»Ã¥ÂÂ±)001.mp3",
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788423229472_dcb4f4c707c9740f81956256fc75fb27.jpg",
     "duration": "3:04"
   },
   {
     "id": 1788423301475,
-    "title": "çº¦ç¿°ä¸ä¹¦ï¼2è",
+    "title": "Ã§ÂºÂ¦Ã§Â¿Â°Ã¤Â¸ÂÃ¤Â¹Â¦Ã¯Â¼Â2Ã¨ÂÂ",
     "artist": "XF",
     "album": "",
-    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788423293770_çº¦ç¿°ä¸ä¹¦2è_20260530_210309.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788423293770_Ã§ÂºÂ¦Ã§Â¿Â°Ã¤Â¸ÂÃ¤Â¹Â¦2Ã¨ÂÂ_20260530_210309.mp3",
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788423299113_09378f71c21fdf6133cbd8169ab5b9e8.jpg",
     "duration": "1:31"
   },
   {
     "id": 1788761936182,
-    "title": "ä»¥èµäºä¹¦32ï¼15",
+    "title": "Ã¤Â»Â¥Ã¨ÂµÂÃ¤ÂºÂÃ¤Â¹Â¦32Ã¯Â¼Â15",
     "artist": "XF",
     "album": "",
     "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788761929901_20241109__32_15____________PC_____.mp3",
@@ -51,7 +51,7 @@
   },
   {
     "id": 1788762221350,
-    "title": "è¯ç¯90ç¯16-17è",
+    "title": "Ã¨Â¯ÂÃ§Â¯Â90Ã§Â¯Â16-17Ã¨ÂÂ",
     "artist": "XF",
     "album": "",
     "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788762214501__90_16_17__mp3____001_1_.mp3",
@@ -61,7 +61,7 @@
   },
   {
     "id": 1788762293357,
-    "title": "åè¯¥ä¹¦2ï¼8-9",
+    "title": "Ã¥ÂÂÃ¨Â¯Â¥Ã¤Â¹Â¦2Ã¯Â¼Â8-9",
     "artist": "XF",
     "album": "",
     "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788762287822_____2-8.mp3",
@@ -71,12 +71,22 @@
   },
   {
     "id": 1788768318441,
-    "title": "传道书3：2-4",
+    "title": "ä¼ éä¹¦3ï¼2-4",
     "artist": "XF",
     "album": "",
     "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788768312069_____2_4_.m4a",
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788768315886____3_2-4.jpg",
     "duration": "1:04"
+  },
+  {
+    "id": 1788768379137,
+    "title": "马太福音24：12-14",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788768373963___24_12-14_.m4a",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788768377107_____24_12-14.jpg",
+    "duration": "0:34"
   }
 ]
