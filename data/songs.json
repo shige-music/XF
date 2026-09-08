@@ -138,5 +138,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788856262425_____3_10.jpg",
     "duration": "0:37"
+  },
+  {
+    "id": 1788856489474,
+    "title": "启示录3：17-18",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788856483175__3_17-18_.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788856487275____3_17-18.png",
+    "duration": "1:29"
   }
 ]
