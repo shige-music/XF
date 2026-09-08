@@ -268,5 +268,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788858072635_____61_7.jpg",
     "duration": "1:04"
+  },
+  {
+    "id": 1788858133681,
+    "title": "诗篇71;12-14",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788858127651___71_12-14_.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788858131653___71_12-14.jpg",
+    "duration": "0:57"
   }
 ]
