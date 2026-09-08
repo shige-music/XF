@@ -178,5 +178,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788856999108_____55_10-11.jpg",
     "duration": "1:35"
+  },
+  {
+    "id": 1788857070114,
+    "title": "玛拉基书4：5-6",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788857065202____4_5-6_.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788857068512_____4_5-6.jpg",
+    "duration": "0:35"
   }
 ]
