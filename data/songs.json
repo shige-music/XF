@@ -208,5 +208,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788857180648______4_7.jpg",
     "duration": "0:31"
+  },
+  {
+    "id": 1788857618070,
+    "title": "诗篇43：5",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788857612879___43_5_.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788857616244___43_5.jpg",
+    "duration": "0:54"
   }
 ]
