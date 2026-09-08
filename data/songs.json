@@ -88,5 +88,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788855946557____3_2-4.jpg",
     "duration": "1:04"
+  },
+  {
+    "id": 1788856001170,
+    "title": "马太福音5：3-10",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788855995886__5_3-10_.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788855999119_____5_3-10.jpg",
+    "duration": "1:17"
   }
 ]
