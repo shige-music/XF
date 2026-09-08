@@ -108,5 +108,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788856048724_____24_12-14.jpg",
     "duration": "0:34"
+  },
+  {
+    "id": 1788856118720,
+    "title": "马太福音25：21，路加福音16;10",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788856112021___25_21___16_10.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788856116511_____25_21_____16_10.jpg",
+    "duration": "2:15"
   }
 ]
