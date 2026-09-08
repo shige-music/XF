@@ -248,5 +248,15 @@
     "cover": null,
     "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788857958806_____55_12-13.jpg",
     "duration": "1:24"
+  },
+  {
+    "id": 1788858011537,
+    "title": "以赛亚书61：3",
+    "artist": "XF",
+    "album": "",
+    "url": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/songs/1788858004401____61_3_.mp3",
+    "cover": null,
+    "sheetMusic": "https://cdn.jsdelivr.net/gh/shige-music/XF@main/sheets/1788858009324_____61_3.jpg",
+    "duration": "1:06"
   }
 ]
